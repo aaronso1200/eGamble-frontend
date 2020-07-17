@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  backendURL: 'http://localhost:3000',
+  cookiesSecure: false
 };
